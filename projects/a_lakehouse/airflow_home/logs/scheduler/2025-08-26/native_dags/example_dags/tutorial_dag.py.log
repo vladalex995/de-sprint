@@ -1,0 +1,228 @@
+[2025-08-26T17:25:07.782+0100] {processor.py:161} INFO - Started process (PID=35309) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:25:07.782+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:25:07.782+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:25:07.782+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:25:07.792+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:25:07.846+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:25:07.846+0100] {override.py:1858} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2025-08-26T17:25:07.849+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:25:07.848+0100] {override.py:1858} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2025-08-26T17:25:07.850+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:25:07.850+0100] {override.py:1858} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2025-08-26T17:25:07.850+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:25:07.850+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:25:07.854+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:25:07.854+0100] {dag.py:3111} INFO - Creating ORM DAG for tutorial_dag
+[2025-08-26T17:25:07.854+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:25:07.854+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:25:07.860+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.080 seconds
+[2025-08-26T17:26:28.956+0100] {processor.py:161} INFO - Started process (PID=35373) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:26:28.957+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:26:28.957+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:26:28.957+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:26:28.967+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:26:28.997+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:26:28.997+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:26:29.000+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:26:29.000+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:26:29.006+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2025-08-26T17:27:14.774+0100] {processor.py:161} INFO - Started process (PID=35406) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:27:14.775+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:27:14.775+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:27:14.775+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:27:14.786+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:27:14.818+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:27:14.817+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:27:14.821+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:27:14.821+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:27:14.827+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-08-26T17:27:59.991+0100] {processor.py:161} INFO - Started process (PID=35445) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:27:59.992+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:27:59.992+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:27:59.992+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:28:00.002+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:28:00.031+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:28:00.031+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:28:00.034+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:28:00.034+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:28:00.040+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2025-08-26T17:28:47.852+0100] {processor.py:161} INFO - Started process (PID=35479) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:28:47.853+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:28:47.853+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:28:47.853+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:28:47.863+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:28:47.892+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:28:47.892+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:28:47.895+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:28:47.895+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:28:47.902+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2025-08-26T17:29:36.636+0100] {processor.py:161} INFO - Started process (PID=35514) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:29:36.637+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:29:36.637+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:29:36.637+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:29:36.647+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:29:36.679+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:29:36.678+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:29:36.681+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:29:36.681+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:29:36.688+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2025-08-26T17:30:22.314+0100] {processor.py:161} INFO - Started process (PID=35551) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:30:22.314+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:30:22.315+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:30:22.315+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:30:22.324+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:30:22.353+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:30:22.352+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:30:22.356+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:30:22.356+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:30:22.362+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2025-08-26T17:31:06.661+0100] {processor.py:161} INFO - Started process (PID=35584) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:31:06.662+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:31:06.662+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:31:06.662+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:31:06.674+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:31:06.707+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:31:06.706+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:31:06.710+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:31:06.710+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:31:06.718+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.058 seconds
+[2025-08-26T17:31:52.159+0100] {processor.py:161} INFO - Started process (PID=35678) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:31:52.160+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:31:52.160+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:31:52.160+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:31:52.170+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:31:52.202+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:31:52.201+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:31:52.205+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:31:52.205+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:31:52.211+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2025-08-26T17:32:36.475+0100] {processor.py:161} INFO - Started process (PID=35967) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:32:36.475+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:32:36.475+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:32:36.475+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:32:36.486+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:32:36.517+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:32:36.517+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:32:36.520+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:32:36.520+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:32:36.527+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-08-26T17:33:22.686+0100] {processor.py:161} INFO - Started process (PID=36013) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:33:22.687+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T17:33:22.687+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:33:22.687+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:33:22.697+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T17:33:22.726+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:33:22.725+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T17:33:22.729+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:33:22.729+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T17:33:22.735+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2025-08-26T18:10:53.137+0100] {processor.py:161} INFO - Started process (PID=37389) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:10:53.139+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:10:53.139+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:10:53.139+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:10:53.149+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:10:53.180+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:10:53.180+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:10:53.183+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:10:53.183+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:10:53.190+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2025-08-26T18:12:12.124+0100] {processor.py:161} INFO - Started process (PID=37458) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:12:12.125+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:12:12.126+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:12:12.125+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:12:12.135+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:12:12.162+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:12:12.162+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:12:12.164+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:12:12.164+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:12:12.170+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2025-08-26T18:13:00.136+0100] {processor.py:161} INFO - Started process (PID=37496) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:13:00.136+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:13:00.136+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:13:00.136+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:13:00.145+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:13:00.175+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:13:00.175+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:13:00.178+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:13:00.178+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:13:00.184+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2025-08-26T18:13:42.100+0100] {processor.py:161} INFO - Started process (PID=37533) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:13:42.101+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:13:42.101+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:13:42.101+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:13:42.110+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:13:42.140+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:13:42.139+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:13:42.142+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:13:42.142+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:13:42.149+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2025-08-26T18:14:25.997+0100] {processor.py:161} INFO - Started process (PID=37799) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:14:25.997+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:14:25.997+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:14:25.997+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:14:26.007+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:14:26.037+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:14:26.037+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:14:26.040+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:14:26.040+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:14:26.046+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2025-08-26T18:15:10.623+0100] {processor.py:161} INFO - Started process (PID=37994) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:15:10.624+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:15:10.625+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:10.625+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:15:10.635+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:15:10.665+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:10.665+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:15:10.668+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:10.668+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:15:10.673+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2025-08-26T18:15:57.610+0100] {processor.py:161} INFO - Started process (PID=38034) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:15:57.610+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:15:57.611+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:57.610+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:15:57.620+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:15:57.649+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:57.649+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:15:57.652+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:57.652+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:15:57.659+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2025-08-26T18:16:43.474+0100] {processor.py:161} INFO - Started process (PID=38070) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:16:43.474+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:16:43.475+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:16:43.475+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:16:43.484+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:16:43.511+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:16:43.511+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:16:43.514+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:16:43.514+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:16:43.520+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2025-08-26T18:17:34.459+0100] {processor.py:161} INFO - Started process (PID=38135) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:17:34.460+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:17:34.460+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:17:34.460+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:17:34.471+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:17:34.502+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:17:34.501+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:17:34.505+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:17:34.505+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:17:34.511+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2025-08-26T18:18:23.521+0100] {processor.py:161} INFO - Started process (PID=38435) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:18:23.521+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:18:23.521+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:18:23.521+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:18:23.532+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:18:23.564+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:18:23.563+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:18:23.567+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:18:23.567+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:18:23.573+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-08-26T18:19:22.624+0100] {processor.py:161} INFO - Started process (PID=38852) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:19:22.624+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:19:22.624+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:19:22.624+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:19:22.635+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:19:22.665+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:19:22.665+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:19:22.668+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:19:22.668+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:19:22.675+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2025-08-26T18:20:38.198+0100] {processor.py:161} INFO - Started process (PID=38935) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:20:38.199+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:20:38.200+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:20:38.200+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:20:38.209+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:20:38.238+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:20:38.238+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:20:38.241+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:20:38.241+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:20:38.247+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2025-08-26T18:21:24.565+0100] {processor.py:161} INFO - Started process (PID=38973) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:21:24.565+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:21:24.566+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:24.565+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:21:24.576+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:21:24.608+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:24.608+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:21:24.611+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:24.611+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:21:24.619+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2025-08-26T18:22:10.852+0100] {processor.py:161} INFO - Started process (PID=39012) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:22:10.853+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:22:10.853+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:10.853+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:22:10.862+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:22:10.889+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:10.889+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:22:10.892+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:10.892+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:22:10.898+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2025-08-26T18:22:55.684+0100] {processor.py:161} INFO - Started process (PID=39046) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:22:55.684+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:22:55.685+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:55.684+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:22:55.694+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:22:55.722+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:55.721+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:22:55.724+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:55.724+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:22:55.730+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2025-08-26T18:23:37.840+0100] {processor.py:161} INFO - Started process (PID=39079) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:23:37.841+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:23:37.841+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:23:37.841+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:23:37.851+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:23:37.880+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:23:37.880+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:23:37.883+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:23:37.883+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:23:37.889+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2025-08-26T18:25:06.626+0100] {processor.py:161} INFO - Started process (PID=39157) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:25:06.627+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:25:06.627+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:06.627+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:25:06.637+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:25:06.665+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:06.664+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:25:06.667+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:06.667+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:25:06.673+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2025-08-26T18:25:54.393+0100] {processor.py:161} INFO - Started process (PID=39209) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:25:54.393+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:25:54.394+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:54.393+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:25:54.404+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:25:54.433+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:54.433+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:25:54.436+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:54.436+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:25:54.442+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2025-08-26T18:26:41.924+0100] {processor.py:161} INFO - Started process (PID=39244) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:26:41.925+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:26:41.925+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:41.925+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:26:41.935+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:26:41.964+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:41.964+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:26:41.966+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:41.966+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:26:41.972+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2025-08-26T18:27:13.272+0100] {processor.py:161} INFO - Started process (PID=39660) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:27:13.272+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:27:13.273+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:27:13.273+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:27:13.283+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:27:13.317+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:27:13.317+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:27:13.320+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:27:13.320+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:27:13.326+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2025-08-26T18:29:32.912+0100] {processor.py:161} INFO - Started process (PID=40086) to work on /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:29:32.913+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-08-26T18:29:32.913+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:29:32.913+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:29:32.924+0100] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-08-26T18:29:32.956+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:29:32.955+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:29:32.959+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:29:32.959+0100] {dag.py:3947} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-08-26T18:29:32.965+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds

@@ -1,0 +1,116 @@
+[2025-08-26T18:15:41.200+0100] {processor.py:161} INFO - Started process (PID=38018) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:15:41.201+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:15:41.201+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:41.201+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:15:41.203+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:15:41.269+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:41.269+0100] {override.py:1858} INFO - Created Permission View: can edit on DAG:hello_dag
+[2025-08-26T18:15:41.272+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:41.272+0100] {override.py:1858} INFO - Created Permission View: can delete on DAG:hello_dag
+[2025-08-26T18:15:41.273+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:41.273+0100] {override.py:1858} INFO - Created Permission View: can read on DAG:hello_dag
+[2025-08-26T18:15:41.273+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:41.273+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:15:41.276+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:41.276+0100] {dag.py:3111} INFO - Creating ORM DAG for hello_dag
+[2025-08-26T18:15:41.276+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:15:41.276+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:15:41.281+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.082 seconds
+[2025-08-26T18:16:32.044+0100] {processor.py:161} INFO - Started process (PID=38061) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:16:32.044+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:16:32.045+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:16:32.045+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:16:32.047+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:16:32.075+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:16:32.075+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:16:32.078+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:16:32.078+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:16:32.084+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.041 seconds
+[2025-08-26T18:17:19.105+0100] {processor.py:161} INFO - Started process (PID=38119) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:17:19.105+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:17:19.106+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:17:19.106+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:17:19.108+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:17:19.138+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:17:19.138+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:17:19.141+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:17:19.141+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:17:19.147+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.044 seconds
+[2025-08-26T18:18:10.630+0100] {processor.py:161} INFO - Started process (PID=38424) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:18:10.631+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:18:10.632+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:18:10.632+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:18:10.634+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:18:10.662+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:18:10.662+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:18:10.665+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:18:10.665+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:18:10.671+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.041 seconds
+[2025-08-26T18:19:09.023+0100] {processor.py:161} INFO - Started process (PID=38839) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:19:09.023+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:19:09.023+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:19:09.023+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:19:09.025+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:19:09.054+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:19:09.054+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:19:09.057+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:19:09.057+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:19:09.063+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.041 seconds
+[2025-08-26T18:20:25.195+0100] {processor.py:161} INFO - Started process (PID=38917) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:20:25.196+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:20:25.196+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:20:25.196+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:20:25.198+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:20:25.229+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:20:25.229+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:20:25.232+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:20:25.232+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:20:25.238+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.045 seconds
+[2025-08-26T18:21:11.621+0100] {processor.py:161} INFO - Started process (PID=38963) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:21:11.622+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:21:11.622+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:11.622+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:21:11.625+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:21:11.655+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:11.655+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:21:11.658+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:11.658+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:21:11.664+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.044 seconds
+[2025-08-26T18:21:58.306+0100] {processor.py:161} INFO - Started process (PID=39000) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:21:58.306+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:21:58.306+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:58.306+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:21:58.308+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:21:58.339+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:58.338+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:21:58.342+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:21:58.342+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:21:58.348+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.044 seconds
+[2025-08-26T18:22:43.197+0100] {processor.py:161} INFO - Started process (PID=39036) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:22:43.197+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:22:43.197+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:43.197+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:22:43.199+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:22:43.228+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:43.228+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:22:43.231+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:22:43.231+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:22:43.237+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.042 seconds
+[2025-08-26T18:23:26.625+0100] {processor.py:161} INFO - Started process (PID=39070) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:23:26.625+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:23:26.626+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:23:26.626+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:23:26.628+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:23:26.657+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:23:26.657+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:23:26.660+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:23:26.660+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:23:26.666+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.042 seconds
+[2025-08-26T18:24:08.345+0100] {processor.py:161} INFO - Started process (PID=39102) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:24:08.346+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:24:08.346+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:24:08.346+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:24:08.349+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:24:08.377+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:24:08.377+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:24:08.380+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:24:08.379+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:24:08.386+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.041 seconds
+[2025-08-26T18:24:52.681+0100] {processor.py:161} INFO - Started process (PID=39145) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:24:52.683+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:24:52.683+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:24:52.683+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:24:52.685+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:24:52.717+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:24:52.717+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:24:52.720+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:24:52.720+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:24:52.727+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.047 seconds
+[2025-08-26T18:25:41.233+0100] {processor.py:161} INFO - Started process (PID=39195) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:25:41.234+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:25:41.234+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:41.234+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:25:41.236+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:25:41.266+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:41.266+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:25:41.269+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:25:41.269+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:25:41.275+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.044 seconds
+[2025-08-26T18:26:30.062+0100] {processor.py:161} INFO - Started process (PID=39235) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:26:30.063+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:26:30.063+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:30.063+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:26:30.066+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:26:30.099+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:30.098+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:26:30.102+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:30.102+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:26:30.111+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.050 seconds
+[2025-08-26T18:26:59.754+0100] {processor.py:161} INFO - Started process (PID=39531) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:26:59.755+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:26:59.756+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:59.756+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:26:59.758+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:26:59.791+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:59.791+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:26:59.794+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:26:59.794+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:26:59.801+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.048 seconds
+[2025-08-26T18:29:19.441+0100] {processor.py:161} INFO - Started process (PID=40067) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:29:19.442+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py for tasks to queue
+[2025-08-26T18:29:19.443+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:29:19.442+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:29:19.445+0100] {processor.py:840} INFO - DAG(s) 'hello_dag' retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py
+[2025-08-26T18:29:19.475+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:29:19.475+0100] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-08-26T18:29:19.478+0100] {logging_mixin.py:188} INFO - [2025-08-26T18:29:19.478+0100] {dag.py:3947} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-26T18:29:19.484+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/hello_dag.py took 0.044 seconds

@@ -1,0 +1,165 @@
+[2025-08-26T17:24:54.240+0100] {processor.py:161} INFO - Started process (PID=35297) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:24:54.240+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:24:54.240+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:24:54.240+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:24:54.243+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:24:54.242+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:24:54.243+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:24:54.268+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.029 seconds
+[2025-08-26T17:26:16.661+0100] {processor.py:161} INFO - Started process (PID=35363) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:26:16.662+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:26:16.663+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:26:16.663+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:26:16.664+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:26:16.664+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:26:16.664+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:26:16.690+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.030 seconds
+[2025-08-26T17:27:01.979+0100] {processor.py:161} INFO - Started process (PID=35397) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:27:01.979+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:27:01.979+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:27:01.979+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:27:01.981+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:27:01.980+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:27:01.981+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:27:02.006+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.029 seconds
+[2025-08-26T17:27:47.689+0100] {processor.py:161} INFO - Started process (PID=35435) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:27:47.690+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:27:47.690+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:27:47.690+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:27:47.692+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:27:47.692+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:27:47.692+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:27:47.718+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.030 seconds
+[2025-08-26T17:28:35.813+0100] {processor.py:161} INFO - Started process (PID=35470) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:28:35.813+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:28:35.813+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:28:35.813+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:28:35.815+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:28:35.815+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:28:35.816+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:28:35.842+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.030 seconds
+[2025-08-26T17:29:23.708+0100] {processor.py:161} INFO - Started process (PID=35505) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:29:23.708+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:29:23.708+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:29:23.708+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:29:23.710+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:29:23.709+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:29:23.710+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:29:23.736+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.030 seconds
+[2025-08-26T17:30:09.432+0100] {processor.py:161} INFO - Started process (PID=35541) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:30:09.433+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:30:09.433+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:30:09.433+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:30:09.434+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:30:09.434+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:30:09.434+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:30:09.460+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.029 seconds
+[2025-08-26T17:30:53.654+0100] {processor.py:161} INFO - Started process (PID=35575) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:30:53.655+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:30:53.655+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:30:53.655+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:30:53.657+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:30:53.657+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:30:53.657+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:30:53.683+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.030 seconds
+[2025-08-26T17:31:39.264+0100] {processor.py:161} INFO - Started process (PID=35610) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:31:39.264+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:31:39.264+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:31:39.264+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:31:39.266+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:31:39.265+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:31:39.266+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:31:39.290+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.027 seconds
+[2025-08-26T17:32:24.687+0100] {processor.py:161} INFO - Started process (PID=35953) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:32:24.687+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:32:24.688+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:32:24.688+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:32:24.689+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:32:24.689+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:32:24.689+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:32:24.718+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.032 seconds
+[2025-08-26T17:33:10.822+0100] {processor.py:161} INFO - Started process (PID=36002) to work on /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:33:10.823+0100] {processor.py:830} INFO - Processing file /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py for tasks to queue
+[2025-08-26T17:33:10.823+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:33:10.823+0100] {dagbag.py:545} INFO - Filling up the DagBag from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:33:10.825+0100] {logging_mixin.py:188} INFO - [2025-08-26T17:33:10.824+0100] {dagbag.py:355} ERROR - Failed to import: /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+Traceback (most recent call last):
+  File "/Users/vlad.alex995/Desktop/de-sprint/.venv-airflow/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py", line 36, in <module>
+    with DAG(
+         ^^^^
+TypeError: DAG.__init__() got an unexpected keyword argument 'timezone'
+[2025-08-26T17:33:10.825+0100] {processor.py:842} WARNING - No viable dags retrieved from /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py
+[2025-08-26T17:33:10.851+0100] {processor.py:183} INFO - Processing /Users/vlad.alex995/Desktop/de-sprint/projects/a_lakehouse/airflow_home/dags/daily_orders_dag.py took 0.030 seconds
